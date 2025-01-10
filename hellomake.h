@@ -2,10 +2,8 @@
 example include file
 */
 
-void myPrintHelloMake(void
+int myPrintHelloMake();
 
 /*
-The compilation won't work because I broke something... whoops!
-
-void myPrintHelloMake(void); might work better. 
+Fixed syntax error. I added the missing character in the function and updated the declaration 
 */
